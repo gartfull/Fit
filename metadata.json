@@ -1,0 +1,5 @@
+{
+  "name": "NutriFit Tracker",
+  "description": "Interactive dashboard for fitness trainers and nutritionists to track client progress.",
+  "requestFramePermissions": []
+}
